@@ -1,4 +1,4 @@
-# Human Activity Recognition
+# Bike Share Optimization
 
 This repository contains the codes for an academic project I did at Purdue from Nov to Dec'2021.
 
