@@ -1,6 +1,7 @@
 # Bike Share Optimization
 
 This repository contains the codes for an academic project I did at Purdue from Nov to Dec'2021.
+Lear more about the project [here](https://asadhusain97.github.io/projects/bikeoptimization.html)
 
 ## Problem
 I am performing analytics to solve various business problems for the public bike share system Metro Bike in Austin, Texas. I have access to the bike-rental data in Austin through this [link](https://data.austintexas.gov/Transportation-and-Mobility/Austin-MetroBike-Trips/tyfh-5r8s). I will use concepts from graph theory, linear optimisation, and machine learning to solve the following problems.
